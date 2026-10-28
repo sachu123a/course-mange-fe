@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "courseName": "MEARN FULL STACK",
+      "trainerName": "sasa",
+      "duration": "6 months",
+      "fee": 25000,
+      "time": "9 AM - 11 AM",
+      "id": 1
+    },
+    {
+      "courseName": "Python",
+      "trainerName": "sarath",
+      "duration": "8",
+      "fee": 25664,
+      "time": "10",
+      "id": 2
+    }
+  ]
+}
